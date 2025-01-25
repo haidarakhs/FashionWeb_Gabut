@@ -308,6 +308,8 @@ body {
 .paragraf-close h1 {
   text-align: right;
   margin-right: 1rem;
+  font-size: 4rem;
+  font-weight: 400;
 }
 .paragraf-close a{
   text-align: right;
@@ -342,7 +344,8 @@ body {
 }
 .footer h3 {
   font-size: 18px;
-  margin-bottom: 15px;
+  margin-bottom: 15px; 
+  font-weight: 400;
 }
 .footer a {
   text-decoration: none;
